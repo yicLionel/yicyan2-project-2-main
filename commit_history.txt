@@ -1,0 +1,14 @@
+b466f49 - tinazhang128, 88 minutes ago : major revision
+30e3da0 - tinazhang128, 24 hours ago : coding styles
+f445eac - tinazhang128, 25 hours ago : add Physics for graviy and termial velocity
+344fb6a - tinazhang128, 26 hours ago : delete redundant code
+db18c4c - tinazhang128, 7 days ago : minor revision
+ae6c294 - tinazhang128, 7 days ago : refining magic numbers
+854c64a - tinazhang128, 7 days ago : adding comments
+3d0efa1 - tinazhang128, 7 days ago : bug fixed
+b4f7abf - tinazhang128, 7 days ago : fixed bugs: ladder interaction and jumping across barrels
+b8dfe54 - tinazhang128, 9 days ago : fixed bugs
+0ebc90d - tinazhang128, 2 weeks ago : DonkeyKong skeleton
+ce14c04 - tinazhang128, 3 weeks ago : bounding box
+c84e5f6 - tinazhang128, 3 weeks ago : level 1 initial setup
+0aed408 - Tianyi Zhang, 3 weeks ago : Initial commit

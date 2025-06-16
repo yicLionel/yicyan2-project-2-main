@@ -1,0 +1,42 @@
+5eca989 - Lionel yan, 15 hours ago : add git log file
+044286f - Lionel yan, 16 hours ago : update README file
+1b1f088 - Lionel yan, 17 hours ago : update Normal Monkey's javadoc
+9ce1ae6 - Lionel yan, 17 hours ago : update Monkey's javadoc
+428a1d5 - Lionel yan, 17 hours ago : update Level1 and Level2 Strategy's javadoc
+22a0d81 - Lionel yan, 18 hours ago : update Level1Strategy
+0cab290 - Lionel yan, 18 hours ago : update Level1Strategy javadoc
+5a3b893 - Lionel yan, 18 hours ago : update ladder's javadoc
+54b4f95 - Lionel yan, 18 hours ago : update Intelligent Monkey's javadoc
+da7dab7 - Lionel yan, 21 hours ago : update Hammer javadoc
+d11c481 - Lionel yan, 21 hours ago : update GamePlayScreen javadoc
+2a4b99b - Lionel yan, 22 hours ago : introduced Score class
+838fd2c - Lionel yan, 22 hours ago : fixed bug on scoring
+ac246bd - Lionel yan, 2 days ago : update GameEndScreen javadoc
+3b07aae - Lionel yan, 2 days ago : update donkey's javadoc
+1266a03 - Lionel yan, 2 days ago : update bullet's javadoc
+03535d2 - Lionel yan, 2 days ago : update blaster's javadoc
+f07a27c - Lionel yan, 2 days ago : fixed duplicates of types of monkey
+5b4fe6e - Lionel yan, 2 days ago : update barrel's javadoc
+84289f3 - Lionel yan, 2 days ago : fixed hammer collection and update banana's javadoc
+9382d2b - Lionel yan, 3 days ago : fixed bug on monkey routes
+994ba28 - Lionel yan, 4 days ago : tried to put some javadoc
+34c1262 - Lionel yan, 4 days ago : add shootable interface and fixed bug of jumping over scoring
+5201853 - Lionel yan, 4 days ago : add score inheritance
+a6275b6 - Lionel yan, 4 days ago : add banana collision check
+8961cf8 - Lionel yan, 5 days ago : fixed bug about monkey route
+a8197a5 - Lionel yan, 5 days ago : fixed the collision with donkey
+a434e75 - Lionel yan, 8 days ago : fixed jumping scoring bug
+eba71d0 - Lionel yan, 8 days ago : fixed bug on scoring
+df50254 - Lionel yan, 8 days ago : add bullet collision to monkeys
+9e0577f - Lionel yan, 8 days ago : add bullet collision with platforms
+d2c636d - Lionel yan, 8 days ago : fixed some comments about monkey movings
+fa46bdb - Lionel yan, 8 days ago : fixed bug about monkey movement
+15981b7 - Lionel yan, 8 days ago : fixed redundant code for monkeys
+0e2f898 - Lionel yan, 8 days ago : fixed normal monkeys sprite
+5a87eb8 - Lionel yan, 8 days ago : initially put the donkeys
+f7f6a79 - Lionel yan, 8 days ago : fixed gameEnd conditions
+49bd7c8 - Lionel yan, 8 days ago : add abstract class of Monkeys
+9d7750d - Lionel yan, 8 days ago : modify the function of changing weapons
+232455c - Lionel yan, 8 days ago : add function of exchanging weapons
+d1a4235 - Lionel yan, 8 days ago : add strategy pattern
+0e6bbb7 - Lionel yan, 9 days ago : initial commit
