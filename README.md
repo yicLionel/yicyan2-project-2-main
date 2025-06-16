@@ -1,4 +1,13 @@
-# DonkeyKong
+# 2-D Mario & DonkeyKong Game
+This repository is a game based on BAGEL engine
+## How to run the game?
+You can clone the whole repository, go to src/ShadowDonkeyKong.java and run it.
+
+
+
+
+
+## REMINDER
 Given that Final Score = (100 * number of destroyed barrel) + (30 * number of jumping over a barrel) + (3 * remaining time (in seconds)) + (100 * number of destroyed monkey)
 
 The actual scoring system is being implemented with my assumption.
