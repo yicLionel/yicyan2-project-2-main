@@ -1,5 +1,5 @@
 # 2-D Mario & DonkeyKong Game
-This repository is a game based on BAGEL engine
+This repository is a game based on BAGEL engine from The University of Melbourne.
 ## How to run the game?
 You can clone the whole repository, go to “src/ShadowDonkeyKong.java” and run it.
 
